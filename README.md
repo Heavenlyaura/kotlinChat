@@ -8,7 +8,7 @@ The purpose of creating this software is to build a fully functional chat applic
 
 # Development Environment
 
-- **IDE:** Android Studio  
+- **IDE:** Visual Studio Code
 - **Programming Language:** Kotlin  
 - **Frameworks & Tools:** Jetpack Compose, Firebase Firestore, Firebase Authentication  
 
